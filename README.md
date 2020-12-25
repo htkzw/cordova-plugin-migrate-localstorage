@@ -8,7 +8,7 @@ left of.
 
 Simply add the plugin to your cordova project via the cli:
 ```sh
-cordova plugin add https://github.com/harupiie/cordova-plugin-migrate-localstorage
+cordova plugin add https://github.com/htkzw/cordova-plugin-migrate-localstorage
 ```
 
 If you have any custom scheme set in the config.xml. You will have to change the https://github.com/khatridev/cordova-plugin-migrate-localstorage/blob/d22b39728451661d3d41eaa853258e07b96e1b4b/src/ios/MigrateLocalStorage.m#L52 . [ By default, set for app://localhost scheme ]
